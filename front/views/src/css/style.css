@@ -1,0 +1,11 @@
+.fundo{
+    height: 1000px;
+    background-color: blue;
+}
+.form-busca{
+    margin-top: 20%;
+    padding: 35px;
+}
+.nav-vermelha{
+    background-color: #b72f32;
+}
